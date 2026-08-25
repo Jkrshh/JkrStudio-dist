@@ -1,10 +1,10 @@
 # Jkr Studio
 
-> **Ce dépôt est le canal de mise à jour.** Il ne contient que les archives
-> prêtes à l'emploi — pas la source, pas de données. C'est ici que l'outil
-> vient voir, au lancement, s'il existe une version plus récente.
+> **Ce depot est le canal de mise a jour.** Il ne contient que les archives
+> pretes a l emploi - pas la source, pas de donnees. C est ici que l outil
+> vient voir, au lancement, s il existe une version plus recente.
 >
-> **[→ Télécharger la dernière version](https://github.com/Jkrshh/JkrStudio-dist/releases/latest)**
+> **[-> Telecharger la derniere version](https://github.com/Jkrshh/JkrStudio-dist/releases/latest)**
 
 Produire, monter et programmer des reels en masse, sur autant de comptes qu'on
 veut — sans que deux comptes publient jamais la même chose au même moment.
@@ -155,8 +155,16 @@ l'extérieur.
 
 ## Mises à jour
 
-Au lancement, l'outil regarde s'il existe une version plus récente ici. Si oui, un bouton apparaît en haut. L'installation ne part que si tu
-l'acceptes.
+Au lancement, l'outil regarde s'il existe une version plus récente sur le canal
+de distribution, [JkrStudio-dist](https://github.com/Jkrshh/JkrStudio-dist). Si
+oui, un bouton apparaît en haut. L'installation ne part que si tu l'acceptes.
+
+Ce canal ne contient que les archives publiées — c'est ce qui permet au dépôt
+de source de rester privé sans qu'aucun jeton n'ait à voyager avec le
+programme. Si tu préfères sortir GitHub du chemin, renseigne `MANIFESTE` dans
+[`app/version.py`](app/version.py) : l'outil ira lire un simple fichier JSON
+(`version`, `url`, `notes`) à l'adresse de ton choix, et c'est celui-là qui
+fera autorité.
 
 Tes données ne sont jamais touchées : `profiles`, `input`, `output`, `assets`
 et `presets` restent en place. La version précédente est mise de côté dans
