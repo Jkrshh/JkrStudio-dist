@@ -18,7 +18,8 @@ Trois vues, dans l'ordre où l'on s'en sert :
 
 L'interface est en **français et en anglais**, et un **guide complet vit dans
 l'outil** : bouton `Guide` en haut à droite. Il s'ouvre tout seul au premier
-lancement.
+lancement. Le bouton `Quoi de neuf ?` à côté raconte ce que chaque version a
+apporté, et s'ouvre de lui-même après une mise à jour.
 
 ---
 
@@ -96,7 +97,8 @@ ses propres réglages : cadrage, filtres, découpe.
 - **Son** — chaque clip porte son propre volume et son bouton de coupure, dans
   ses propriétés. La musique a les siens.
 - **Ciseau** — il coupe **l'élément sélectionné** : un clip en deux clips, un
-  texte en deux calques, une image en deux images.
+  texte en deux calques, une image en deux images, une musique en deux blocs
+  qui gardent chacun leurs fondus et leur volume.
 - **Traduction** — clic droit sur un texte → `Traduire`. 85 langues, l'anglais
   américain et britannique distingués, le ton réglable. Le bouton `Traduire`
   applique tes préférences sans rien demander.
