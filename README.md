@@ -1,8 +1,7 @@
 # Jkr Studio
 
 > **Ce depot est le canal de mise a jour.** Il ne contient que les archives
-> pretes a l emploi - pas la source, pas de donnees. C est ici que l outil
-> vient voir, au lancement, s il existe une version plus recente.
+> pretes a l emploi - pas la source, pas de donnees.
 >
 > **[-> Telecharger la derniere version](https://github.com/Jkrshh/JkrStudio-dist/releases/latest)**
 
@@ -92,7 +91,15 @@ ses propres réglages : cadrage, filtres, découpe.
 - **Textes** — `+ Texte` pose un calque, déplaçable directement dans l'aperçu.
 - **Images / stickers** — même principe, mêmes poignées.
 - **Musique** — glisse un MP3 sur la carte, ou colle un lien. Puis glisse la
-  piste sur la timeline. Les languettes aux coins du bloc règlent les fondus.
+  piste sur la timeline. Le bloc s'affiche à la longueur réelle du morceau,
+  même s'il dépasse la vidéo. Les languettes aux coins règlent les fondus.
+- **Son** — chaque clip porte son propre volume et son bouton de coupure, dans
+  ses propriétés. La musique a les siens.
+- **Ciseau** — il coupe **l'élément sélectionné** : un clip en deux clips, un
+  texte en deux calques, une image en deux images.
+- **Traduction** — clic droit sur un texte → `Traduire`. 85 langues, l'anglais
+  américain et britannique distingués, le ton réglable. Le bouton `Traduire`
+  applique tes préférences sans rien demander.
 - **Transitions** — une pastille apparaît à la jointure de deux clips.
 
 Un montage peut durer **plus longtemps que ses images** : une musique de deux
@@ -112,6 +119,10 @@ différent par compte si tu remplis la banque de hooks.
 3. **Génère le plan** — chaque variante reçoit un compte et un horaire.
 4. **Envoie** — le bouton reste grisé tant qu'une étape manque, et
    `Comment ça marche ?` dit laquelle.
+
+La traduction passe par DeepL si tu renseignes une clé, sinon par Google puis
+Microsoft, sans compte ni configuration. Seul le texte du calque quitte ta
+machine — jamais un fichier, jamais un nom de compte.
 
 ---
 
