@@ -99,6 +99,9 @@ ses propres réglages : cadrage, filtres, découpe.
 - **Ciseau** — il coupe **l'élément sélectionné** : un clip en deux clips, un
   texte en deux calques, une image en deux images, une musique en deux blocs
   qui gardent chacun leurs fondus et leur volume.
+- **Emojis** — bouton sous le champ de texte : 1900 emojis, recherche en
+  français ou en anglais, teintes de peau. Le pack choisi (iOS par défaut) est
+  dessiné dans l'aperçu **et** dans l'export.
 - **Traduction** — clic droit sur un texte → `Traduire`. 85 langues, l'anglais
   américain et britannique distingués, le ton réglable. Le bouton `Traduire`
   applique tes préférences sans rien demander.
@@ -121,6 +124,11 @@ différent par compte si tu remplis la banque de hooks.
 3. **Génère le plan** — chaque variante reçoit un compte et un horaire.
 4. **Envoie** — le bouton reste grisé tant qu'une étape manque, et
    `Comment ça marche ?` dit laquelle.
+
+Les packs d'emojis ne sont **pas livrés avec le programme** : le pack choisi se
+télécharge une fois (environ 20 Mo) sur ta machine, à ta demande, puis
+fonctionne hors ligne. Les illustrations d'Apple lui appartiennent — ce que tu
+en fais relève de ton usage.
 
 La traduction passe par DeepL si tu renseignes une clé, sinon par Google puis
 Microsoft, sans compte ni configuration. Seul le texte du calque quitte ta
