@@ -99,6 +99,11 @@ ses propres réglages : cadrage, filtres, découpe.
 - **Ciseau** — il coupe **l'élément sélectionné** : un clip en deux clips, un
   texte en deux calques, une image en deux images, une musique en deux blocs
   qui gardent chacun leurs fondus et leur volume.
+- **Mise en page du texte** — une largeur de bloc, et le texte s'y replie tout
+  seul. Le mode *équilibré* répartit les lignes pour qu'elles fassent à peu
+  près la même longueur ; *Ajuster la taille* réduit le corps jusqu'à ce que
+  tout tienne. `Réorganiser` répare un texte déjà tapé avec des retours à la
+  main.
 - **Emojis** — bouton sous le champ de texte : 1900 emojis, recherche en
   français ou en anglais, teintes de peau. Le pack choisi (iOS par défaut) est
   dessiné dans l'aperçu **et** dans l'export.
