@@ -126,7 +126,8 @@ différent par compte si tu remplis la banque de hooks.
    `profiles/buffer.json`.
 2. **Crée les comptes** depuis les canaux Buffer. Chacun porte son calendrier
    hebdomadaire — tu peux reprendre celui que Buffer connaît déjà.
-3. **Règle le pays de chaque compte** — clic droit → `Plage horaire et pays`.
+3. **Règle le pays de chaque compte** — clic droit sur un compte **ou sur un
+   canal Buffer** → `Plage horaire et pays`.
    Une plage (« entre 12 h et 12 h 30 ») plutôt qu'une heure fixe, et le
    décalage horaire calculé tout seul : un compte américain publie à midi
    **chez lui**, pas à midi heure de Paris. Un drapeau le rappelle dans la

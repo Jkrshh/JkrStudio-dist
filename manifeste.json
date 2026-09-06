@@ -1,5 +1,5 @@
 {
-  "version": "1.0.5",
-  "url": "https://github.com/Jkrshh/JkrStudio-dist/releases/download/v1.0.5/JkrStudio-1.0.5.zip",
-  "notes": "Chaque compte publie a l'heure de son public : pays et plage horaire par compte."
+  "version": "1.0.6",
+  "url": "https://github.com/Jkrshh/JkrStudio-dist/releases/download/v1.0.6/JkrStudio-1.0.6.zip",
+  "notes": "Pays et plage horaire par compte, reglables depuis le canal Buffer."
 }
