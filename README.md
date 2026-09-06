@@ -126,8 +126,13 @@ différent par compte si tu remplis la banque de hooks.
    `profiles/buffer.json`.
 2. **Crée les comptes** depuis les canaux Buffer. Chacun porte son calendrier
    hebdomadaire — tu peux reprendre celui que Buffer connaît déjà.
-3. **Génère le plan** — chaque variante reçoit un compte et un horaire.
-4. **Envoie** — le bouton reste grisé tant qu'une étape manque, et
+3. **Règle le pays de chaque compte** — clic droit → `Plage horaire et pays`.
+   Une plage (« entre 12 h et 12 h 30 ») plutôt qu'une heure fixe, et le
+   décalage horaire calculé tout seul : un compte américain publie à midi
+   **chez lui**, pas à midi heure de Paris. Un drapeau le rappelle dans la
+   liste.
+4. **Génère le plan** — chaque variante reçoit un compte et un horaire.
+5. **Envoie** — le bouton reste grisé tant qu'une étape manque, et
    `Comment ça marche ?` dit laquelle.
 
 Les packs d'emojis ne sont **pas livrés avec le programme** : le pack choisi se
