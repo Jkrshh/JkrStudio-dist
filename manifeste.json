@@ -1,5 +1,5 @@
 {
-  "version": "1.3.3",
-  "url": "https://github.com/Jkrshh/JkrStudio-dist/releases/download/v1.3.3/JkrStudio-1.3.3.zip",
-  "notes": "Ollama vivant sans modele n'est plus pris pour un service eteint."
+  "version": "1.3.4",
+  "url": "https://github.com/Jkrshh/JkrStudio-dist/releases/download/v1.3.4/JkrStudio-1.3.4.zip",
+  "notes": "Mise en route du moteur visible avant le clic, avec barres de progression."
 }
