@@ -60,6 +60,7 @@ un clic :
 | **exiftool** | écrit les métadonnées des fichiers produits | non, mais recommandé |
 | **yt-dlp** | récupère une musique depuis un lien | non |
 | **cloudflared** | donne une adresse publique aux vidéos pour Buffer | non, sauf pour publier |
+| **Ollama** | fait tourner le modèle qui réécrit les légendes, en local | non, mais les variantes sont bien meilleures avec |
 
 Rien ne s'installe sans que tu l'aies demandé. Chaque programme vient de son
 éditeur, par `winget`, le gestionnaire de paquets fourni avec Windows.
