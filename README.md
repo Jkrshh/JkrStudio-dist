@@ -15,6 +15,7 @@ Trois vues, dans l'ordre où l'on s'en sert :
 | **Repurpose** | prend un reel et en sort une variante par compte, chacune avec son cadrage, ses couleurs, son encodage et ses métadonnées |
 | **Edit Studio** | monte les reels : clips, textes, images, musique, transitions |
 | **Batching Studio** | répartit les variantes sur les comptes et dans la semaine, puis les envoie à Buffer qui publie |
+| **Statistiques** | quel reel performe, sur quel compte, sur la période de ton choix |
 
 L'interface est en **français et en anglais**, et un **guide complet vit dans
 l'outil** : bouton `Guide` en haut à droite. Il s'ouvre tout seul au premier
