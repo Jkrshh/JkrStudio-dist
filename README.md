@@ -133,7 +133,11 @@ différent par compte si tu remplis la banque de hooks.
    **chez lui**, pas à midi heure de Paris. Un drapeau le rappelle dans la
    liste.
 4. **Génère le plan** — chaque variante reçoit un compte et un horaire.
-5. **Envoie** — le bouton reste grisé tant qu'une étape manque, et
+5. **Écris une légende, applique-la à la famille** — clic sur un reel, tape la
+   légende, puis `Appliquer à la famille` : tous les reels issus de la même
+   source en reçoivent une variante. Même sens, tournure légèrement changée,
+   emoji différent mais de même charge. 14 légendes au lieu de 140.
+6. **Envoie** — le bouton reste grisé tant qu'une étape manque, et
    `Comment ça marche ?` dit laquelle.
 
 Les packs d'emojis ne sont **pas livrés avec le programme** : le pack choisi se
